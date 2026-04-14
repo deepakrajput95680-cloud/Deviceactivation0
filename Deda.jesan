@@ -29,6 +29,7 @@
         "expirydate": "03-05-2026",
         "Allowoffline": false
     },
+
 {
         "device_id": "63438c3a2401aad2",
         "key": "d4",
@@ -41,5 +42,11 @@
         "expirydate": "11-05-2026",
         "Allowoffline": false
     },
+{
+        "device_id": "397277e0ffc08706",
+        "key": "d6",
+        "expirydate": "14-05-2026",
+        "Allowoffline": false
+    }
 
 ]
